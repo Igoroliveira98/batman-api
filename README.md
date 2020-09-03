@@ -1,6 +1,6 @@
 ![API do Batman](https://github.com/Igoroliveira98/batman-api/blob/master/public/images/background2.png)
 
-# Sorteio de Cartas 
+# BATMAN API 
 
 Olá pessoal. Este é um projeto simples, onde eu pego informações de uma API que me fornece o perfil do Batman, e renderizo em uma página HTML.
  
